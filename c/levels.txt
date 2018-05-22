@@ -1,0 +1,919 @@
+ . 2 . | . . . | . . 5
+ . . 4 | 7 8 . | . . 1
+ 5 . 6 | . . . | . . .
+-------|-------|-------
+ . . . | . . . | 2 . 3
+ . . . | . . . | 8 6 .
+ 7 . 8 | 1 . . | 4 . .
+-------|-------|-------
+ . . 2 | . 3 4 | . . .
+ . 5 7 | . . . | 3 . .
+ 3 . . | . . . | . . .
+
+Number of Givens: 23
+Number of Singles: 58
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ . . . | 4 1 . | . . 5
+ . . 8 | 2 . . | . 6 .
+ . . . | 5 . . | . . .
+-------|-------|-------
+ . 5 2 | 1 8 . | . . 6
+ . 8 . | 3 7 . | . . .
+ . . . | . . . | 1 . 2
+-------|-------|-------
+ . . . | 7 . . | . . 1
+ . . . | . . . | 8 3 .
+ 3 . . | . 5 6 | . 4 .
+
+Number of Givens: 25
+Number of Singles: 56
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ . . 6 | . . 7 | 1 . 9
+ . . 9 | . 5 4 | . . .
+ 5 . . | 8 . . | . 7 .
+-------|-------|-------
+ 4 . . | . 9 . | . 1 .
+ 9 7 . | . 3 . | 4 . 6
+ 1 . 3 | 4 . 6 | . 8 .
+-------|-------|-------
+ . . . | . . . | . 3 .
+ . . . | . . . | . . .
+ . . . | 9 . 5 | . . .
+
+Number of Givens: 26
+Number of Singles: 55
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ 2 5 . | . . . | . . 9
+ 7 . . | . . . | . . .
+ 4 . . | . 2 . | . 3 .
+-------|-------|-------
+ 5 6 . | . . . | . . .
+ . 4 . | 3 . 9 | 7 . 5
+ . . . | . . 8 | 9 . .
+-------|-------|-------
+ 3 8 . | 4 . . | 5 . .
+ . . . | 2 . . | 4 7 .
+ . . . | . . . | . . 6
+
+Number of Givens: 24
+Number of Singles: 57
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ . . 8 | . . 4 | 5 . 7
+ 2 . . | 1 . . | . . .
+ . . . | . 9 . | 1 3 .
+-------|-------|-------
+ . . 9 | . . . | . . 8
+ . . 5 | . . . | . 9 .
+ . . . | . . . | . . 3
+-------|-------|-------
+ . 4 . | . 5 7 | . . .
+ 9 . 2 | . 4 . | . 8 .
+ 7 . . | . 8 . | . 2 .
+
+Number of Givens: 24
+Number of Singles: 57
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ 7 . 5 | . . . | . . .
+ 9 1 8 | . . . | . 2 7
+ . 3 . | . . . | 5 . .
+-------|-------|-------
+ . . 1 | 3 . 5 | . 8 .
+ . . . | . . . | 6 . .
+ . 2 6 | . . . | . 7 1
+-------|-------|-------
+ . . 9 | 7 . . | . 5 2
+ 2 . . | . . 8 | 7 . .
+ . . . | . . 1 | . . .
+
+Number of Givens: 26
+Number of Singles: 55
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ . . 7 | 4 3 . | 8 . .
+ . . . | . . . | . . 3
+ . . . | . . . | . 7 2
+-------|-------|-------
+ . . . | . . . | . . 8
+ . . . | 9 2 . | . 3 .
+ 9 . . | . 5 8 | 7 2 .
+-------|-------|-------
+ . 4 5 | . . 7 | . . .
+ . 7 . | . . . | . 1 .
+ . 3 . | 2 8 . | 5 9 .
+
+Number of Givens: 26
+Number of Singles: 55
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ . . . | 5 2 . | . . 9
+ . . . | 1 . 9 | 5 8 .
+ . . . | . 6 . | . . .
+-------|-------|-------
+ . . 8 | . 1 6 | . 3 2
+ . . . | 3 8 . | . . .
+ . . . | . . 7 | . . .
+-------|-------|-------
+ . . . | 2 3 . | 1 . .
+ 1 . 2 | . . 8 | 9 . .
+ . 3 5 | . . . | 7 . 8
+
+Number of Givens: 27
+Number of Singles: 54
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ . . 7 | . . . | . 3 .
+ . . . | . 9 . | . 2 7
+ . . . | . 4 . | 6 . .
+-------|-------|-------
+ 9 . 8 | . . . | . 7 6
+ . 4 3 | . 2 . | . . .
+ 6 . . | . . . | . . 4
+-------|-------|-------
+ 8 . . | 2 . . | . . .
+ 7 . 6 | . . 4 | 5 . 3
+ 3 . . | . . 5 | 9 . .
+
+Number of Givens: 26
+Number of Singles: 55
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ 7 4 . | 5 . . | . 9 .
+ 8 . . | . 6 . | . 4 .
+ 9 6 . | 8 . . | . . 5
+-------|-------|-------
+ . . . | . . . | . . .
+ . . . | . . 3 | . 2 .
+ . . . | 7 . . | . 8 .
+-------|-------|-------
+ . 7 . | . 9 . | 4 3 .
+ . 8 . | . . 5 | 7 . .
+ . . 3 | . . 2 | . . .
+
+Number of Givens: 24
+Number of Singles: 57
+Number of Hidden Singles: 0
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Simple
+
+ 2 3 . | 6 . . | . . .
+ . 1 . | . . 2 | . . 8
+ 6 . . | . . . | . 9 .
+-------|-------|-------
+ . . . | 8 . . | . 1 .
+ . . . | . . 3 | . . 5
+ . . 9 | . 7 . | 2 . .
+-------|-------|-------
+ 5 . . | . . . | . . .
+ 3 8 7 | 1 2 . | . . .
+ 1 . . | . . 8 | . 6 .
+
+Number of Givens: 24
+Number of Singles: 44
+Number of Hidden Singles: 13
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ 4 . . | . . 2 | . . 5
+ . . 1 | 9 5 . | . . .
+ . . . | 1 . . | 7 . .
+-------|-------|-------
+ . 1 . | . . . | . . 2
+ . . . | . 2 7 | . . .
+ 5 . . | 4 8 . | . . .
+-------|-------|-------
+ 8 3 . | . . . | . 7 .
+ . 4 . | . 7 9 | . 5 .
+ 1 . 5 | . . . | 3 . .
+
+Number of Givens: 25
+Number of Singles: 35
+Number of Hidden Singles: 21
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ 6 . . | . 4 1 | . . .
+ . . 2 | . 9 . | 5 1 .
+ . . . | 6 . 5 | . . .
+-------|-------|-------
+ . . 4 | 5 . . | 8 3 .
+ 1 . . | . 2 3 | . . .
+ . . . | . . 8 | . 4 .
+-------|-------|-------
+ . 6 . | . . . | 9 . 5
+ . . . | 1 . . | 4 . .
+ . . . | . 3 6 | . . .
+
+Number of Givens: 25
+Number of Singles: 43
+Number of Hidden Singles: 13
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ . . 2 | . 5 . | . . 4
+ . 5 . | . 8 6 | . 2 .
+ 8 . . | . . . | . 6 7
+-------|-------|-------
+ 5 . 3 | . 6 . | . . .
+ . 2 4 | . . . | . . .
+ . . . | 8 . 2 | . . .
+-------|-------|-------
+ . . . | . . 3 | 4 . .
+ 7 . . | . . . | . 3 .
+ 4 . . | . 2 . | . 9 8
+
+Number of Givens: 25
+Number of Singles: 32
+Number of Hidden Singles: 24
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ . . . | . 6 . | . . 1
+ . . . | . . 9 | 2 5 7
+ 1 . . | 7 3 . | 8 . .
+-------|-------|-------
+ 6 . . | . 7 . | . . 5
+ 2 8 . | . . . | . . .
+ . 9 . | . . . | . 8 .
+-------|-------|-------
+ . . . | . 2 . | . . 6
+ . 2 3 | . 9 7 | . . .
+ 8 1 . | . . . | . . .
+
+Number of Givens: 25
+Number of Singles: 47
+Number of Hidden Singles: 9
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ 6 . . | 9 . 5 | . 3 .
+ 9 . . | 3 . . | . . .
+ . 1 . | . . . | . . .
+-------|-------|-------
+ . 8 . | . 4 . | . 1 .
+ . 4 5 | . . 1 | 3 . 9
+ . . . | 6 3 . | . . .
+-------|-------|-------
+ . 6 . | . . . | 9 . 4
+ 7 . 9 | . . . | . 5 .
+ . . . | . . . | 1 . .
+
+Number of Givens: 24
+Number of Singles: 41
+Number of Hidden Singles: 16
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ . . 2 | . . 6 | . 7 3
+ 9 . 5 | . 7 . | 6 . .
+ 3 . . | . 2 9 | . . 5
+-------|-------|-------
+ . 4 8 | . . . | . . .
+ 6 7 . | . 8 . | . . 2
+ . . . | . . 3 | 4 . .
+-------|-------|-------
+ . . . | 5 6 . | . 8 .
+ . . . | . . . | . . .
+ . . . | . . . | . . 9
+
+Number of Givens: 24
+Number of Singles: 37
+Number of Hidden Singles: 20
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ . 3 . | 8 . 1 | . . .
+ . . 9 | . . 5 | . . 3
+ . 7 . | . . . | 2 9 .
+-------|-------|-------
+ . 2 . | . . . | . . 9
+ . 9 1 | . . 2 | . 7 8
+ . 8 . | . . . | 5 2 .
+-------|-------|-------
+ 4 . . | . . 3 | . 1 .
+ . . . | . 1 . | . 5 7
+ 7 . . | . . 8 | . . 4
+
+Number of Givens: 28
+Number of Singles: 43
+Number of Hidden Singles: 10
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ . . 6 | . . . | 2 . 1
+ . . 1 | 2 . 3 | . 5 .
+ . . . | . 4 . | . . .
+-------|-------|-------
+ . 2 . | . . 7 | 1 . 9
+ . . . | . . 6 | 4 3 .
+ . 1 . | . . . | . . 6
+-------|-------|-------
+ 3 . . | . . . | . . .
+ . . . | 4 9 . | . . .
+ . . . | 7 . 1 | 9 . 5
+
+Number of Givens: 24
+Number of Singles: 42
+Number of Hidden Singles: 15
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ . 8 . | . . . | . . .
+ . 2 1 | . . . | 7 4 .
+ 4 . . | 1 6 . | . . .
+-------|-------|-------
+ 1 7 . | . . . | 4 6 9
+ . . 4 | . . . | . . .
+ 2 3 . | . . 7 | . 1 .
+-------|-------|-------
+ 7 . . | 2 . 3 | . 9 .
+ . . . | . . . | . . 6
+ 9 1 2 | . . . | . 7 .
+
+Number of Givens: 27
+Number of Singles: 46
+Number of Hidden Singles: 8
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy
+
+ 3 4 8 | . . . | 2 9 .
+ . . . | . . . | . . .
+ . 2 9 | 5 . . | . . .
+-------|-------|-------
+ . 7 2 | 4 8 . | 1 . .
+ . 1 . | . 2 9 | . 3 .
+ . . . | . 5 . | . 8 .
+-------|-------|-------
+ . . 7 | . . 4 | 8 . .
+ 4 . . | . 7 . | . . .
+ . . 3 | . . . | . . 9
+
+Number of Givens: 26
+Number of Singles: 40
+Number of Hidden Singles: 15
+Number of Naked Pairs: 7
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 1
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ 5 . 3 | . . . | 1 . 4
+ . . . | . . . | 2 . 3
+ . 7 . | . . . | . . .
+-------|-------|-------
+ . . 8 | 4 5 . | . . .
+ 7 . . | . . 2 | . 4 8
+ 4 . . | 1 . . | . . .
+-------|-------|-------
+ 1 9 . | 2 . . | . . 5
+ 2 . . | . . 5 | . 1 .
+ . . 7 | . 4 . | . 8 .
+
+Number of Givens: 26
+Number of Singles: 37
+Number of Hidden Singles: 18
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ . . . | . 1 9 | 3 . .
+ 6 . 3 | . . . | . . .
+ . 9 . | 6 . 8 | . 4 .
+-------|-------|-------
+ . . 4 | . . . | . 9 6
+ . 5 6 | . 9 . | 4 . .
+ 1 . . | . . . | . 5 .
+-------|-------|-------
+ . . . | 2 . . | . 8 5
+ 5 . . | . . . | 2 . 1
+ . . . | . . . | . 3 .
+
+Number of Givens: 25
+Number of Singles: 46
+Number of Hidden Singles: 10
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 1
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ 8 . . | . . 5 | 6 3 .
+ . . 3 | . 9 . | . . .
+ 2 . . | 1 . . | . 4 .
+-------|-------|-------
+ 6 . 9 | . 2 . | . 5 .
+ . . . | . . . | . . .
+ . . . | . 1 . | . . .
+-------|-------|-------
+ . . . | . 3 . | . 6 4
+ . 2 . | . . 8 | . . 3
+ . . 5 | 6 . . | . 1 .
+
+Number of Givens: 23
+Number of Singles: 48
+Number of Hidden Singles: 10
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ . . . | 9 . . | . 5 .
+ . . . | . 5 4 | . . .
+ . . . | . . 6 | . . .
+-------|-------|-------
+ 5 3 . | . 4 . | . 6 .
+ . 8 . | . 6 2 | . . .
+ . 2 . | . . 8 | . . 9
+-------|-------|-------
+ . . 5 | . 3 . | . 9 .
+ 6 . . | . 9 . | 2 1 .
+ . . 2 | . . 1 | . . 4
+
+Number of Givens: 25
+Number of Singles: 46
+Number of Hidden Singles: 10
+Number of Naked Pairs: 2
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ . . . | . . 8 | . . 4
+ . 9 . | 5 4 6 | . 8 .
+ 5 . . | 7 . . | . . .
+-------|-------|-------
+ . . . | . . . | . 9 8
+ . . . | . 3 . | . 6 .
+ 6 . . | . . 9 | 4 . 7
+-------|-------|-------
+ . 5 . | . . . | . . .
+ . 1 . | 4 8 3 | . . 9
+ . . . | 1 . 7 | 8 . .
+
+Number of Givens: 26
+Number of Singles: 47
+Number of Hidden Singles: 8
+Number of Naked Pairs: 2
+Number of Hidden Pairs: 2
+Number of Pointing Pairs/Triples: 5
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ 6 9 1 | . . . | . 4 .
+ . 5 7 | . . 4 | 3 . 2
+ . 2 . | 7 9 . | . . .
+-------|-------|-------
+ . . 5 | 2 . 1 | . . .
+ . . . | . . . | . . 6
+ . . . | 4 5 . | . . 3
+-------|-------|-------
+ . . 2 | 3 . . | . . .
+ 1 . 4 | . 2 . | 5 . .
+ . 6 . | . . . | . . .
+
+Number of Givens: 26
+Number of Singles: 44
+Number of Hidden Singles: 11
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ . 2 . | . . . | 6 . 7
+ 7 3 . | . 6 . | . 1 .
+ . . . | . . . | . . .
+-------|-------|-------
+ . . . | . 5 . | . . .
+ . . 2 | . . 9 | . 4 .
+ . . . | 7 . 2 | 5 6 .
+-------|-------|-------
+ . . 9 | 3 . . | . . .
+ . 6 5 | . . . | . 7 3
+ 1 . . | . . . | 2 5 .
+
+Number of Givens: 24
+Number of Singles: 35
+Number of Hidden Singles: 22
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ 7 . 2 | . . . | . . .
+ . . . | . . . | 6 . 8
+ . 6 . | . . 1 | 2 . 5
+-------|-------|-------
+ . . . | 1 . 6 | . 5 .
+ . 4 . | 2 . . | 1 . 6
+ 2 . . | 8 . . | . . 9
+-------|-------|-------
+ . 9 5 | . . . | . . .
+ 4 8 . | . 9 . | . . .
+ 1 . . | . . . | . . 4
+
+Number of Givens: 25
+Number of Singles: 46
+Number of Hidden Singles: 10
+Number of Naked Pairs: 3
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ . . . | 6 . . | 7 . .
+ . . . | . 9 . | . 2 6
+ . 7 . | 4 2 . | . 1 .
+-------|-------|-------
+ 9 . . | . . . | . . 7
+ 1 . . | . . 4 | 3 . 8
+ . . . | . . . | 6 4 .
+-------|-------|-------
+ . . 8 | . . . | . . 9
+ 3 . 9 | 7 . . | . . .
+ 2 . 4 | . . . | 8 . .
+
+Number of Givens: 25
+Number of Singles: 43
+Number of Hidden Singles: 13
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 2
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Intermediate
+
+ 8 . . | . . 6 | . . 2
+ . 5 . | 3 . . | 9 . 4
+ 1 6 . | . . . | . . .
+-------|-------|-------
+ . . . | . . 3 | . . .
+ . . . | . 2 5 | . 4 8
+ . . . | . . . | . . .
+-------|-------|-------
+ . . 4 | . . . | 5 2 .
+ . 8 . | . 6 2 | . 3 1
+ . . 6 | . 4 . | . . .
+
+Number of Givens: 24
+Number of Singles: 71
+Number of Hidden Singles: 10
+Number of Naked Pairs: 5
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 4
+Number of Box/Line Intersections: 0
+Number of Guesses: 2
+Number of Backtracks: 2
+Difficulty: Expert
+
+ 9 . . | . 3 . | . . 1
+ . . . | . . . | . . .
+ . . . | 5 . . | 9 . .
+-------|-------|-------
+ . . 6 | . . 8 | . 2 5
+ . . 8 | 1 6 . | . . .
+ 2 . 1 | . . . | . . .
+-------|-------|-------
+ . . . | . 2 . | 3 . 8
+ 5 . . | . . 9 | . . 2
+ . 3 . | . . 4 | . 6 .
+
+Number of Givens: 23
+Number of Singles: 35
+Number of Hidden Singles: 22
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 1
+Number of Backtracks: 0
+Difficulty: Expert
+
+ . . . | . 2 . | . . 5
+ . . . | . 4 7 | . 8 .
+ . . . | . . . | . . 9
+-------|-------|-------
+ 8 1 . | . 5 . | 4 7 .
+ . 9 5 | . . . | . . 6
+ 2 . 7 | . 1 . | . . .
+-------|-------|-------
+ . . . | . 7 4 | 2 1 .
+ . . . | 8 9 . | . . .
+ . . 4 | . . 1 | . . .
+
+Number of Givens: 25
+Number of Singles: 40
+Number of Hidden Singles: 15
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 1
+Number of Backtracks: 0
+Difficulty: Expert
+
+ . . . | . . 7 | 1 . 4
+ . . . | . . . | 6 9 .
+ . 4 . | . . . | . 7 8
+-------|-------|-------
+ 7 . . | 8 6 . | . 2 9
+ 2 . . | 7 . . | 4 8 .
+ . . 6 | 4 . 5 | . . .
+-------|-------|-------
+ . . 7 | . . . | . . .
+ . 2 . | . 9 . | . 6 .
+ 5 . . | . . . | 2 . .
+
+Number of Givens: 26
+Number of Singles: 39
+Number of Hidden Singles: 14
+Number of Naked Pairs: 2
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 1
+Number of Box/Line Intersections: 0
+Number of Guesses: 2
+Number of Backtracks: 0
+Difficulty: Expert
+
+ . . . | . . 3 | . . 2
+ 7 . 6 | . . . | 9 4 .
+ 3 . . | . 8 . | 5 . .
+-------|-------|-------
+ . . 9 | 7 . . | 8 2 .
+ 6 . . | . . 8 | . . .
+ . . 8 | . 5 . | . . 6
+-------|-------|-------
+ . . 7 | . 6 . | . 5 .
+ . . 5 | . 9 . | . . 7
+ . . . | . . . | 2 . 4
+
+Number of Givens: 26
+Number of Singles: 65
+Number of Hidden Singles: 18
+Number of Naked Pairs: 2
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 2
+Number of Box/Line Intersections: 0
+Number of Guesses: 8
+Number of Backtracks: 4
+Difficulty: Expert
+
+ . 9 3 | 1 . . | . . .
+ 6 . . | 9 2 . | . 8 .
+ 8 . . | . . 6 | 1 . .
+-------|-------|-------
+ . . . | . . . | 6 . .
+ 9 . . | . . . | . 4 3
+ . . 1 | . . . | 2 9 .
+-------|-------|-------
+ . 8 . | . . 4 | . . .
+ 2 . . | . . 1 | 7 . .
+ 3 . . | . . . | 4 . 6
+
+Number of Givens: 25
+Number of Singles: 44
+Number of Hidden Singles: 11
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 1
+Number of Box/Line Intersections: 0
+Number of Guesses: 1
+Number of Backtracks: 0
+Difficulty: Expert
+
+ 9 3 . | . . . | . . .
+ 6 . . | . 5 9 | 7 . .
+ . . . | . . . | 6 1 .
+-------|-------|-------
+ 2 . 6 | . . . | 3 9 .
+ . 5 . | 1 . . | 2 . 7
+ . 9 . | 2 . . | . 8 .
+-------|-------|-------
+ 8 . 5 | . 2 . | . 6 .
+ . . . | . . . | 8 . 2
+ . . . | . . 1 | . . .
+
+Number of Givens: 26
+Number of Singles: 61
+Number of Hidden Singles: 8
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 4
+Number of Box/Line Intersections: 1
+Number of Guesses: 2
+Number of Backtracks: 2
+Difficulty: Expert
+
+ 8 7 2 | 3 . . | . . 5
+ . . 3 | . . 4 | 6 . .
+ 5 . . | 8 . . | . . 3
+-------|-------|-------
+ . . . | . 6 5 | . 9 .
+ . . . | . . . | . 3 .
+ . . . | 2 . 3 | . 4 8
+-------|-------|-------
+ 9 . . | . 4 . | . . .
+ . . . | . 8 2 | . . .
+ . 5 . | . . . | . . .
+
+Number of Givens: 24
+Number of Singles: 46
+Number of Hidden Singles: 14
+Number of Naked Pairs: 3
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 1
+Number of Box/Line Intersections: 0
+Number of Guesses: 3
+Number of Backtracks: 2
+Difficulty: Expert
+
+ . . 6 | 1 . . | . 4 5
+ 9 . . | . . 5 | . 6 2
+ . 4 . | . . 2 | . 8 1
+-------|-------|-------
+ 1 . . | 2 . . | . 5 .
+ . 6 . | . . . | . . 9
+ 5 . . | . . . | . . .
+-------|-------|-------
+ 2 . . | 5 6 . | . 3 .
+ . . 1 | . . 3 | . 2 6
+ . 3 . | 4 . . | . . .
+
+Number of Givens: 28
+Number of Singles: 56
+Number of Hidden Singles: 20
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 4
+Number of Box/Line Intersections: 0
+Number of Guesses: 4
+Number of Backtracks: 2
+Difficulty: Expert
+
+ . 9 . | . . 6 | . 8 .
+ . . 6 | . . 7 | . . 3
+ . . . | . 2 . | . . .
+-------|-------|-------
+ . 3 . | . . . | 5 . .
+ . 5 9 | 1 6 . | 3 . .
+ . . . | . . . | . 1 6
+-------|-------|-------
+ . . 7 | . . . | . . 5
+ . . . | . 3 . | . 9 .
+ . . . | 5 . 1 | 6 7 8
+
+Number of Givens: 25
+Number of Singles: 39
+Number of Hidden Singles: 20
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 1
+Number of Box/Line Intersections: 0
+Number of Guesses: 4
+Number of Backtracks: 4
+Difficulty: Expert
